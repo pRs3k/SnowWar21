@@ -1,0 +1,20 @@
+***********************************************************
+*		Sw_lake	       Deathmatch		  *
+***********************************************************
+*							  *
+*	Author : Antti Ryökkynen		          *
+*       Authors email : Antti_ryokkynen@hotmail.com 	  *
+*	Description : Small deathmatch level in little    *
+*	mountain lake, surrounding few trees and ice cold *
+*       water.        					  *
+*  	Base: From scratch.				  *
+*	Tools used : Worldcraft 3.3,Q2beaver,		  *
+*       Zoner's HL Tools 2.5.3                            *
+*	Compile time	: Approx 30mins			  *
+*	Textures : from snowwar and hl wads		  *
+*	Custom Sky : no					  *
+*       Custom sounds : none				  *
+*	Thanks go to for testing : Zilppuri(teemu.p),     *
+*	Donitz, tUuMi^ and Deus				  *
+*							  *
+***********************************************************

@@ -1,0 +1,17 @@
+This wad created by Adam Siklosi.
+
+Use only in the mod Snow-War.
+
+The rest of the textures was made by Adam Siklosi.
+If you use them give me credit about the texture's author.
+
+
+dr.vigyor@freemail.hu
+
+                                   _
+                                  //
+      _____    ___    __      __  _  ____  __  _   ___    ___
+     / ___ \  / __\   \ \    / / // / ___\ \ \//  / __\  / __\
+    / /  / / / /_//    \ \  / / // / /___   \ /  / / // / /_//
+   / /__/ / / _  /  __  \ \/ / // / /__//   //  / /_// / _  /
+  /_____   /_/ \_\ /_/   \__/ //  \____/   //   \___/ /_/ \_\

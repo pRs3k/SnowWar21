@@ -1,0 +1,15 @@
+King of the Mountain  
+kotm_faceoff 
+Map by: Slackiller http://www.slackiller.com
+
+textures: mike zilla,Slackiller & blazeeer & snow-wars wads
+
+
+Charge the center and see who can 
+ become King of the Mountain.
+
+
+
+ 
+
+(Press FIRE to continue)

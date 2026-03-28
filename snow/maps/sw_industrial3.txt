@@ -1,0 +1,92 @@
+=============================================================================
+==  Industrial district part III ==== (c)2004 ===
+=============================================================================
+
+Based on sw_industrial, extended by a warehouse. Added EAX for the warehouse
+and fixed a void at the red container. Erased any brush overlap and sped up
+everything.
+
+=============================================================================
+-----------------------------------------------------------------------------
+* INDUSTRIAL DISTRICT PART III INFORMATION *
+-----------------------------------------------------------------------------
+TITLE                   : Industrial district part III
+FILENAME                : sw_industrial3.bsp
+AUTHORS                 : Jan Hartung   	(aka eddi)
+DATE                    : January 2003 - February 2004
+GAME                    : Snow-War
+EMAIL ADDRESS           : eddi@planethalflife.com
+HOMEPAGE URL            : http://www.planethalflife.com/snowwar/
+ 
+-----------------------------------------------------------------------------
+* LEVEL DESCRIPTION *
+-----------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------
+SINGLE PLAYER           : 1 singleplayer start (for testing only).
+CO-OPERATIVE            : No.
+DEATHMATCH              : 10 DM Starts.
+SUGGESTED PLAYER LOAD   : 2 to 16.
+ 
+NEW TEXTURES            : X-Tender (http://www.fuchtelworld.de/)
+                          Remedy Entertainment (see copyright/permissions)
+NEW SOUNDS              : Yes,
+			  music in the mappers' room and the small office
+			  inspired by the Bad Boys 2 soundtrack. Made with
+			  FL-Studio.
+CD TRACK #              : No cd track is played.
+ 
+-----------------------------------------------------------------------------
+* CONSTRUCTION *
+-----------------------------------------------------------------------------
+MAP BASE                : Ideas, sketch of another map (never finished).
+PREFABS USED            : None.
+EDITOR(S) USED          : Hammer (http://www.valve-erc.com/)
+OTHER UTILITIES USED    : FL-Studio
+			  Wally
+                          ZHLT Compile GUI (http://www.planethalflife.com/eddi/)
+ 
+KNOWN BUGS              : None.
+
+COMPILE MACHINE		: Athlon XP 2500+, 512 MB RAM
+TOTAL COMPILE TIME	: 23 minutes, 5 seconds.
+ 
+-----------------------------------------------------------------------------
+* OTHER LEVELS BY EDDI *
+-----------------------------------------------------------------------------
+sw_industrial, sw_industrial2, sw_roofs, lms_roofs, sw_jack and several
+LAN-funmaps for AHL.
+ 
+-----------------------------------------------------------------------------
+* CREDITS *
+-----------------------------------------------------------------------------
+Snow-War Team           : For the best fun mod ever.
+Valve   		: For one of the best games, maybe the best game ever.
+banana of the A-Team    : For his map-info sheet.
+Remedy Entertainment    : For the Max Payne textures.
+
+=============================================================================
+* COPYRIGHT / PERMISSIONS *
+-----------------------------------------------------------------------------
+This level is (C) 2004 Jan Hartung. 
+
+Max Payne and some of the textures which are used for this map are are
+property of Remedy Entertainment Ltd., and can be used only as long as
+the work is recognized as original artwork by Remedy, and no financial
+profit is made in the process.
+(C)1998-2001 Remedy Entertainment Ltd.
+
+Authors MAY NOT use this level as a base to build additional levels.
+No decompiling, hacking, or modification of the .bsp or related files
+will be tolerated.
+ 
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS! If you don't co-operate, then DON'T DISTRIBUTE
+IT IN ANY FORM!
+ 
+No money may be charged for this level AT ALL without first getting
+permission from me.
+
+Snow-War (C) Snow-War Team.
+Half-Life (C) Sierra On-line and Valve L.L.C. All rights reserved.

@@ -1,0 +1,2 @@
+The skybox "darknight" is copyright 2003 by Jan Hartung. You may use it for Snow-War maps without asking. If you
+want to use it for any other mod or game just drop me a line at eddi@planethalflife.com.

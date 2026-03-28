@@ -1,0 +1,11 @@
+CTF_Ravine
+
+OBJECTIVE: Acquire flag from the other
+team's fort, then take it to the capture
+point inside your team's fort to score.
+
+HINT'S: Stay out of the other team's
+spawn and resupply areas.  There is a
+secret tunnel linking the upper ravine
+with the waterfall.  Beware the pit in
+the tunnel.

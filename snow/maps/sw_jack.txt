@@ -1,0 +1,103 @@
+=============================================================================
+==  Jack ==== (c)2004 ===
+=============================================================================
+
+A mid-sized neighbourhood with some snowy trees. There is a house which can
+be accessed either through the front door or via a ladder. The roofs of the
+other houses are connected but you should fall down into the areas which
+obviously can't be left. There is also a guest star in this map - the sax
+player Jack.
+...go and find the easteregg in the map.
+
+=============================================================================
+-----------------------------------------------------------------------------
+* JACK INFORMATION *
+-----------------------------------------------------------------------------
+TITLE                   : Jack
+FILENAME                : sw_jack.bsp
+AUTHORS                 : Jan Hartung   	(aka eddi)
+DATE                    : February 2004 - May 2004
+GAME                    : Snow-War
+EMAIL ADDRESS           : eddi@planethalflife.com
+HOMEPAGE URL            : http://snowwar.hlgaming.com/
+ 
+-----------------------------------------------------------------------------
+* LEVEL DESCRIPTION *
+-----------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------
+SINGLE PLAYER           : 1 singleplayer start (for testing only).
+CO-OPERATIVE            : No.
+DEATHMATCH              : 8 DM Starts.
+SUGGESTED PLAYER LOAD   : 2 to 16.
+ 
+NEW TEXTURES            : Remedy Entertainment (see copyright/permissions)
+			  Some textures by myself
+NEW SOUNDS              : Yes, the tune played by Jack. Please read the
+			  copyright/permissions for this.
+NEW SKY			: No.
+CD TRACK #              : No cd track is played.
+ 
+-----------------------------------------------------------------------------
+* CONSTRUCTION *
+-----------------------------------------------------------------------------
+MAP BASE                : A set of screenshots from the starting area in the
+			  game "Jack Orlando - Director's Cut"
+PREFABS USED            : Yeah, some.
+EDITOR(S) USED          : Hammer (http://www.valve-erc.com/)
+OTHER UTILITIES USED    : Corel Photo-Paint
+			  Cool Edit Pro 2.0
+			  Wally
+                          ZHLT Compile GUI (http://www.planethalflife.com/eddi/)
+ 
+KNOWN BUGS              : None.
+
+COMPILE MACHINE		: Athlon XP 2500+, 512 MB RAM
+TOTAL COMPILE TIME	: 31 minutes, 36 seconds. (while using DScaler and Nero :)
+
+-----------------------------------------------------------------------------
+* OTHER LEVELS BY EDDI *
+-----------------------------------------------------------------------------
+sw_industrial, sw_industrial2, sw_industrial3 (never released), sw_roofs,
+lms_roofs, sw_train and some AHL maps just for LAN play.
+ 
+-----------------------------------------------------------------------------
+* CREDITS *
+-----------------------------------------------------------------------------
+Snow-War Team           : For the best fun mod ever.
+Valve   		: For one of the best games.
+banana of the A-Team    : For his map-info sheet.
+Remedy Entertainment    : For the Max Payne textures.
+
+=============================================================================
+* COPYRIGHT / PERMISSIONS *
+-----------------------------------------------------------------------------
+This level is (C) 2004 Jan Hartung. 
+
+IMPORTANT: The music in this map is taken from the game "Jack Orlando -
+Director's Cut" and is used with permission from ZUXXEZ Entertainment AG.
+Following their advice I cut it up into 4 files @ 13 seconds because here
+in Germany the GEMA could charge money for any copyrighted piece of music
+longer than 14.99 seconds if it's not used by the owner of the rights.
+Please don't use it for your maps.
+
+Max Payne and some of the textures which are used for this map are are
+property of Remedy Entertainment Ltd., and can be used only as long as
+the work is recognized as original artwork by Remedy, and no financial
+profit is made in the process.
+(C)1998-2001 Remedy Entertainment Ltd.
+
+Authors MAY NOT use this level as a base to build additional levels.
+No decompiling, hacking, or modification of the .bsp or related files
+will be tolerated.
+ 
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS! If you don't co-operate, then DON'T DISTRIBUTE
+IT IN ANY FORM!
+ 
+No money may be charged for this level AT ALL without first getting
+permission from me.
+
+Snow-War (C) Snow-War Team.
+Half-Life (C) Sierra On-line and Valve L.L.C. All rights reserved.

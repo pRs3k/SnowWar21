@@ -1,0 +1,79 @@
+=====================================================================
+Snow War Map Spec Sheet
+=====================================================================
+------General Information--------------------------------------------
+
+Title           :  Bad Taste 1 (snowfall) for Snow War
+Filename        :  sw_badtaste1_snowfall.bsp
+Author          :  Jason
+Half-Life names :  Libertarian, TEC-9, Spider Mike
+Author Email    :  zestyguacamole@hotmail.com
+Description     :  An outdoor area with a few buildings.
+                   There are a couple of snowman guns.
+                   I'd add more descriptions but it's been quite awhile
+                   since I last played it. I hardly remember it! It's a
+                   cool map though!
+Previous Maps   :  Just stuff for Half-Life deathmatch.
+                   badtaste1
+                   badtaste1_snowfall
+                   badtaste2
+Thanks          :  Gollum - for help on how to make this stuff run better.
+                   Gustavo - for giving me tips on bringing down r_speeds.
+                   Sulsa - game_text entity help.
+                   Valve - for a great game, a great (but a little buggy)
+                   editor, and for helping me when the editor got so buggy
+                   it quit working.
+No Thanks       :  My cat, Biggles, for chewing up the cords to my
+                   Roland synthesizer and about 3 different phone cords, and 
+my
+                   vaccuum cleaner cord, and my iron cord, and his attempt
+                   on my power strip in the computer room which would have
+                   left him stiff as a board. I'm rubbing HOT sauce on all
+                   my cords now. he he he.....
+
+------Play Information-----------------------------------------------
+
+Deathmatch      :Yes - Snow War!
+Single Player   :If you're a loner and nobody loves you, then go right
+                 ahead.
+------Map Information------------------------------------------------
+
+New Textures    :  YES! cshrine4hl.wad (Thank You Crista Forest)
+New Sounds      :  NO
+
+------Construction---------------------------------------------------
+
+Editor(s) used  :  Worldcrash 3.3
+Compile Machine :  AMD Athlon 800 128MB RAM
+Compile time    :  About 30 minutes
+Test Machine(s) :  AMD Athlon 800 128MB RAM, TnT2 Pro 16MB RAM
+                   It ran fine!
+                   Pentium 233 MMX 48MB RAM, Voodoo2 8MB RAM
+                   (This map does not run on this computer and niether does
+                   anything else. It's an expensive type writer.)
+
+
+------Map Instructions-----------------------------------------------
+
+Unzip the files in this archive. Place the map, "sw_badtaste1_snowfall.bsp" 
+in
+your half-life/snowwar/maps directory. The new graphics have been embedded
+in the bsp file.
+
+------That Copyright-Permission Stuff----------------------------------
+
+Authors MAY NOT use this level as a base to build additional levels.
+Good Lord man, be original and build your own.
+
+I'd rather you didn't distribute this map without this unmodified text file
+but it's not like I could stop you so go ahead and do whatever you want.
+
+This BSP may be distributed ONLY over the Internet and/or BBS systems.
+You are NOT authorized to put this BSP on any CD or distribute it in
+any non-internet way without my permission which I would probably give
+you if you ask first. If it's for a magazine I will certainly grant
+permission. Just let me know. When you go to the restroom you should
+wash your hands.
+
+My contacts are getting gooey. I have to stop. Nobody actually reads
+any of this anyway.

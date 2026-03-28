@@ -1,0 +1,55 @@
+"blank"					"* MOVEMENT *"
+
+"+forward"				"Move forward"
+"+back"					"Move back"
+"+left"					"Turn left"
+"+right"				"Turn right"
+"+moveleft"				"Move left (strafe)"
+"+moveright"			"Move right (strafe)"
+"+jump"					"Jump"
+"+duck"					"Duck"
+"+moveup"				"Swim up"
+"+movedown"				"Swim down"
+"+strafe"				"Strafe modifier"
+"+speed"             "Walk"
+
+"blank"					" "
+"blank"					"* ATTACK *"
+
+"+attack"				"Throw snowball"
+"+attack2"				"Make snowball"
+"push"					"Push (other players)"
+
+"blank"					" "
+"blank"					"* Other Snow Commands *"
+
+"+hook"					"Grappling hook"
+"drop powerup" 				"Drop power-up"
+"drop flag" 				"Drop flag/crown"
+"chooseteam"			"Display CTF team menu"
+
+"blank"					" "
+"blank"					"* OTHER GAME COMMANDS *"
+
+"+use"					"Use item (buttons, doors..)"
+"+lookup"				"Look up"
+"+lookdown"				"Look down"
+"centerview"			"Look straight ahead"
+"+mlook"				"Mouse look modifier"
+"+klook"				"Keyboard look modifier"
+
+
+"impulse 100"			"Flashlight"
+"impulse 201"			"Spray logo"
+"+showscores"			"Display multiplayer scores"
+
+"+voicerecord"			"Use voice communication"
+
+"messagemode"			"Chat message"
+"messagemode2"		"Team message"
+
+"snapshot"				"Take screen shot"
+"save quick"			"Quick save"
+"load quick"			"Quick load"
+"pause"				"Pause game"
+"quit"					"Quit game"

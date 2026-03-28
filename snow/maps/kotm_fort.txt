@@ -1,0 +1,36 @@
+Name:
+	kotm_fort
+
+Abstract:
+	A small, 4-6 player fortress map. The top of the keep is a vital
+	point in the map, and it will be the "king of the mountain" 			capture spot. This map is kept small in order to minimize 			r_speeds (which are only borderline at 2 locations), and to 		encourage conflict.
+	
+Author:
+	Nemo
+	Shawn Wernig
+	nemo6366@hotmail.com
+
+Additional Information:
+	
+	New textures:
+		Yes 
+		- Adopted/Changed halflife.wad originals.
+		- Adopted/Changed snow originals.
+		- Changed sw_frostbite.wad originals.
+		
+		Thanks to the respective authors of the textures. If it
+		is a problem, feel free to contact me, and they will be
+		removed, or specific credit added.
+	
+	New sounds:
+		No
+
+Copyright:
+	
+	Textures belong to their authors. For the most part me. if you
+	wish to use them please give credit. And if you wish to use
+	this map as a basis for your own concept, the rmf is available.
+	
+	
+
+

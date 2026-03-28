@@ -1,0 +1,19 @@
+Name:
+	ctf_riverside
+
+
+
+
+This map was created by Adam Siklosi.
+Eddi found it out, and I made it.
+
+/dr.vigyor@freemail.hu/
+
+Uses textures from dr_vigyor.wad.
+                                   _
+                                  //
+      _____    ___    __      __  _  ____  __  _   ___    ___
+     / ___ \  / __\   \ \    / / // / ___\ \ \//  / __\  / __\
+    / /  / / / /_//    \ \  / / // / /___   \ /  / / // / /_//
+   / /__/ / / _  /  __  \ \/ / // / /__//   //  / /_// / _  /
+  /______/ /_/ \_\ /_/   \__/ //  \____/   //   \___/ /_/ \_\

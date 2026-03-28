@@ -1,0 +1,99 @@
+=============================================================================
+==  Snow Roofs ==== (c)2004 ===
+=============================================================================
+
+You've come together with your friends to have a snowball fight on a roof.
+You made your way up to the four connected rooftops with a small office and
+other hiding places.
+
+=============================================================================
+-----------------------------------------------------------------------------
+* SNOW ROOFS INFORMATION *
+-----------------------------------------------------------------------------
+TITLE                   : Snow Roofs
+FILENAME                : sw_roofs.bsp
+AUTHORS                 : Jan Hartung   	(aka eddi)
+DATE                    : August 2003 - January 2004
+GAME                    : Snow-War
+EMAIL ADDRESS           : eddi@planethalflife.com
+HOMEPAGE URL            : http://snowwar.hlgaming.com/
+ 
+-----------------------------------------------------------------------------
+* LEVEL DESCRIPTION *
+-----------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------
+SINGLE PLAYER           : 1 singleplayer start (for testing only).
+CO-OPERATIVE            : No.
+DEATHMATCH              : 10 DM Starts.
+SUGGESTED PLAYER LOAD   : 2 to 10.
+ 
+NEW TEXTURES            : Remedy Entertainment (see copyright/permissions)
+			  -some of them edited by myself
+			  Textures by myself (starting with ed_)
+			  Additional texture art by MrH2o 
+NEW SOUNDS              : Yes, loop in the mappers' room. By myself.
+NEW SKY			: Yes, darknight, made by myself.
+CD TRACK #              : No cd track is played.
+ 
+-----------------------------------------------------------------------------
+* CONSTRUCTION *
+-----------------------------------------------------------------------------
+MAP BASE                : Idea while watching a movie, resulting in a sketch
+			  of the map. You might find it somewhere in the map.
+PREFABS USED            : Yeah, some.
+EDITOR(S) USED          : Hammer (http://www.valve-erc.com/)
+OTHER UTILITIES USED    : Corel Photo-Paint
+			  FL-Studio 4.12
+			  Wally
+                          ZHLT Compile GUI (http://www.planethalflife.com/eddi/)
+ 
+KNOWN BUGS              : Do not jump between one of the speakers and a wall
+			  and keep running. If you stop running then you
+			  might get killed. Don't know how to fix that.
+			  You might also sometimes land on a one unit wide
+			  ledge while falling down near a house. This cannot
+			  be solved.
+
+COMPILE MACHINE		: Athlon XP 2500+, 512 MB RAM
+TOTAL COMPILE TIME	: 14 minutes, 26 seconds.
+
+-----------------------------------------------------------------------------
+* OTHER LEVELS BY EDDI *
+-----------------------------------------------------------------------------
+sw_industrial, sw_industrial2, sw_industrial3 (never released), lms_roofs,
+sw_jack and some AHL maps just for LAN play.
+ 
+-----------------------------------------------------------------------------
+* CREDITS *
+-----------------------------------------------------------------------------
+Snow-War Team           : For the best fun mod ever.
+Valve   		: For one of the best games.
+banana of the A-Team    : For his map-info sheet.
+Remedy Entertainment    : For the Max Payne textures.
+
+=============================================================================
+* COPYRIGHT / PERMISSIONS *
+-----------------------------------------------------------------------------
+This level is (C) 2004 Jan Hartung. 
+
+Max Payne and some of the textures which are used for this map are are
+property of Remedy Entertainment Ltd., and can be used only as long as
+the work is recognized as original artwork by Remedy, and no financial
+profit is made in the process.
+(C)1998-2001 Remedy Entertainment Ltd.
+
+Authors MAY NOT use this level as a base to build additional levels.
+No decompiling, hacking, or modification of the .bsp or related files
+will be tolerated.
+ 
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS! If you don't co-operate, then DON'T DISTRIBUTE
+IT IN ANY FORM!
+ 
+No money may be charged for this level AT ALL without first getting
+permission from me.
+
+Snow-War (C) Snow-War Team.
+Half-Life (C) Sierra On-line and Valve L.L.C. All rights reserved.

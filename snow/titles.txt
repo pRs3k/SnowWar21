@@ -1,0 +1,545 @@
+//TITLES FOR HALF-LIFE
+// Position command $position x y 
+// x & y are from 0 to 1 to be screen resolution independent
+// -1 means center in each dimension
+// Effect command $effect <effect number>
+// effect 0 is fade in/fade out
+// effect 1 is flickery credits
+// effect 2 is write out (training room)
+// effect -1 is print center (normal text in center of screen)
+// effect -2 is print notify (normal text in top left of screen)
+// effect -3 is print center (text piped straight into console)
+// effect -4 is print talk (normal text in lower middle of screen)
+// Text color r g b command $color
+// fadein time fadeout time / hold time
+// $fadein (message fade in time - per character in effect 2)
+// $fadeout (message fade out time)
+// $holdtime (stay on the screen for this long)
+
+
+// the only flags TFC uses are the effect value -4 through -1, for screen positions
+
+
+
+// game text
+
+
+Game_mustteam
+{
+You must join a team first.
+}
+
+
+Game_alreadyteam
+{
+You're already in Team %s.
+}
+
+
+Game_teamfull
+{
+That team is full. Pick another.
+}
+
+
+Game_noteamstart
+{
+You can't start a new team with your color, since another is already using that color. 
+Change your color, then try again.
+}
+
+
+Game_playerjoin
+{
+%s has joined the game
+}
+
+
+Game_startedteam
+{
+%s has started Team %s.
+}
+
+
+Game_joinedteam
+{
+%s has joined Team %s.
+}
+
+
+Game_changedteam
+{
+%s has changed to Team %s.
+}
+
+
+Observer
+{
+OBSERVER
+}
+
+
+// Admin
+
+
+Admin_nopassword
+{
+Server has no Admin password set (tfc_adminpwd)
+}
+
+
+Admin_access
+{
+Admin Password accepted. Admin rights granted.
+}
+
+
+Admin_badpassword
+{
+Admin Password incorrect.
+}
+
+
+Admin_noplayers
+{
+Players In Game : %s
+}
+
+
+Admin_noteamplayers
+{
+Players In Team %s: %s
+}
+
+
+Admin_gameempty
+{
+No other players in the game.
+}
+
+
+Admin_kickban
+{
+%s (%s)  KICK/BAN/NEXT?
+}
+
+
+Admin_listip
+{
+%s (%s)
+}
+
+
+Admin_endlist
+{
+End of player list
+}
+
+
+Admin_kick
+{
+%s was kicked by %s
+}
+
+
+Admin_ban
+{
+%s was banned by %s
+}
+
+
+Admin_ceasefire
+{
+CEASE FIRE
+}
+
+
+AKick_kicked
+{
+%s was kicked for fragging teammates.
+}
+
+
+AKick_warn
+{
+Frag one more teammate, and you will be
+removed from this server.
+}
+
+
+
+//////////////////////////////////////////////////////////////////////
+// Menus
+
+
+Title_SelectYourTeam
+{
+SELECT YOUR TEAM
+}
+
+
+
+BlueTeam
+{
+Blue Team
+}
+
+
+RedTeam
+{
+Red Team
+}
+
+
+
+Team_AutoAssign
+{
+AUTO ASSIGN
+}
+
+
+//////////////////////////////////////////////////////////////////////
+// MATCH SCORING
+Match_results
+{
+=------= MATCH RESULTS =------=
+}
+
+
+Match_draw
+{
+ DRAW 
+}
+
+
+Match_winner
+{
+%s defeated %s
+}
+
+
+// ======= generic CTF ======= //
+
+
+ctf_yougotflag
+{
+You have the enemy flag!
+Take it back to your base!
+}
+
+
+ctf_cantuseitem
+{
+Your team can't use this item.
+}
+
+
+ctf_cant_use_door
+{
+This door won't open for your team.
+}
+
+
+
+Title_SelectYourTeam
+{
+SELECT YOUR TEAM
+}
+
+
+
+// TEAM MENU
+Team_Blue
+{
+BLUE
+}
+
+
+Team_Red
+{
+RED
+}
+
+
+Team_Green
+{
+GREEN
+}
+
+
+Team_Yellow
+{
+YELLOW
+}
+
+
+Team_AutoAssign
+{
+AUTO ASSIGN
+}
+
+
+
+// other menu text
+Menu_OK
+{
+OK
+}
+
+
+Menu_Cancel
+{
+CANCEL
+}
+
+
+Menu_Spectate
+{
+SPECTATE
+}
+
+
+Spec_Mode_Inset0
+{
+Inset Window Off
+}
+
+
+Spec_Mode_Inset1
+{
+Inset Chase-Camera Mode
+}
+
+
+Spec_Mode_Inset2
+{
+Inset First Person Mode
+}
+
+
+Spec_Mode_Inset3
+{
+Inset Map Mode
+}
+
+
+// Spectator Menu
+Spec_Map
+{
+Current Map
+}
+
+
+Spec_Mode1
+{
+Locked Chase-Camera Mode
+}
+
+
+Spec_Mode2
+{
+Free Chase-Camera Mode
+}
+
+
+Spec_Mode3
+{
+Free-Look Mode
+}
+
+
+Spec_Mode4
+{
+First Person Mode
+}
+
+
+Spec_Mode5
+{
+Overview Map Mode
+}
+
+
+Spec_NoTarget
+{
+No valid targets. Cannot switch to Chase-Camera Mode.
+}
+
+
+Spec_Help
+{
+ENTER to Play  FIRE for Next Target  ALT-FIRE for Prev Target  JUMP to Change Modes
+}
+
+
+Spec_Only_Help
+{
+DUCK to Change Inset Mode  FIRE for Next Target  ALT-FIRE for Prev Target  JUMP to Change Modes
+}
+
+
+Spec_Help2
+{
+Your text messages can only be seen by other Spectators
+}
+
+
+Spec_Duck
+{
+Press JUMP to Change Modes
+}
+
+
+Directed
+{
+Auto
+}
+
+
+Spectators
+{
+Spectators
+}
+
+
+Unassigned
+{
+Unassigned
+}
+
+
+// Scoreboard
+TEAMS
+{
+TEAMS
+}
+
+
+PLAYERS
+{
+PLAYERS
+}
+
+
+SCORE
+{
+SCORE
+}
+
+
+DEATHS
+{
+LOSSES
+}
+
+
+LATENCY
+{
+LATENCY
+}
+
+
+VOICE
+{
+VOICE
+}
+
+
+Disguise_Lost
+{
+You've lost your Disguise!
+}
+
+
+Game_unknown_command
+{
+Unknown command: %s
+}
+
+
+
+Map_Description_not_available
+{
+Map Description not available.
+}
+
+
+Player
+{
+player
+}
+
+
+Player_plural
+{
+players
+}
+
+
+Muted
+{
+You have muted %s.
+}
+
+
+Unmuted
+{
+You have unmuted %s.
+}
+
+
+No_longer_hear_that_player
+{
+You will no longer hear that player speak.
+}
+
+
+SPECT_OPTIONS
+{
+Options
+}
+
+OBS_NONE
+{
+Camera Options
+}
+
+OBS_CHASE_LOCKED
+{
+Locked Chase-Cam
+}
+
+OBS_CHASE_FREE
+{
+Free Chase-Cam
+}
+
+OBS_ROAMING
+{
+Roaming
+}
+
+OBS_IN_EYE
+{
+First Person
+}
+
+OBS_MAP_FREE
+{
+Free Overview
+}
+
+OBS_MAP_CHASE
+{
+Chase-Cam Overview
+}
+
+SPECT_OPTIONS
+{
+Options
+}
+
+CAM_OPTIONS
+{
+Camera Options
+}

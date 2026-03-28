@@ -1,0 +1,23 @@
+Name:
+	ctf_abandon
+
+Abstract:
+	Empty Warehouse turned into one fun snow war.
+	
+Author:
+	Strife_11
+	John Lindvay
+	strife11k@hotmail.com
+
+Additional Information:
+
+
+Copyright:
+	
+	Textures belong to their authors. For the most part me. if you
+	wish to use them please give credit. And if you wish to use
+	this map as a basis for your own concept, the rmf is available.
+	
+	
+
+

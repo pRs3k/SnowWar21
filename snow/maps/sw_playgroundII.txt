@@ -1,0 +1,36 @@
+Name:
+	sw_playgroundii
+
+Abstract:
+	Based on the original playground map, playgroundII is larger,
+	and more varied.
+	
+Author:
+	Nemo
+	Shawn Wernig
+	nemo6366@hotmail.com
+
+Additional Information:
+	
+	New textures:
+		Yes 
+		- Adopted/Changed halflife.wad originals.
+		- Adopted/Changed snow originals.
+		- Changed sw_frostbite.wad originals.
+		
+		Thanks to the respective authors of the textures. If it
+		is a problem, feel free to contact me, and they will be
+		removed, or specific credit added.
+	
+	New sounds:
+		No
+
+Copyright:
+	
+	Textures belong to their authors. For the most part me. if you
+	wish to use them please give credit. And if you wish to use
+	this map as a basis for your own concept, the rmf is available.
+	
+	
+
+

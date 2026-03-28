@@ -1,0 +1,8 @@
+4
+ammo                    320 ball2       0       40      18      18
+crosshair               320 aim 0       0       32      48
+
+
+ammo                    640 ball        0       0       48      48
+crosshair               640 aim 0       0       32      48 
+
